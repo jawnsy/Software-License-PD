@@ -2,8 +2,9 @@ use strict;
 use warnings;
 
 package Software::License::PD;
-use base 'Software::License';
 # ABSTRACT: Public Domain pseudo-license
+
+use base 'Software::License';
 
 require Software::License::MIT;
 require Software::License::GPL_3;
@@ -13,21 +14,22 @@ require Software::License::Artistic_2_0;
 
 =head1 DESCRIPTION
 
-By its very definition, Public Domain software is the absence of copyright
-(and therefore license). Artistic works enter the Public Domain in two
-common situations:
+In legal circles, B<Public Domain> is defined as the absence of B<copyright>
+(and therefore precludes the need for any B<license>). Artistic works enter
+the Public Domain in two common situations:
 
 =over
 
 =item 1
 
 Where the work carries no license or copyright information, and precedes
-the ratification of the Berne Convention for the Protection of Literary and
-Artistic Works (which was first accepted at Berne, Switzerland in 1886).
+the ratification of the I<Berne Convention for the Protection of Literary
+and Artistic Works>
 
 =item 2
 
-Where the term of copyright has lapsed
+Where the term of copyright has lapsed, the length of which varies between
+jurisdictions
 
 =back
 
@@ -44,10 +46,10 @@ my own packages, but am unsure whether it would stand up in a court of law.
 
 =head2 CREATIVE COMMONS ZERO
 
-The Creative Commons Zero (CC0) license is an extremely liberal license,
-which confers rights similar to Public Domain, but without the problem of
-being effectively restricted to the United States. Creative Commons does
-not recommend the application of their licenses to software, see:
+The B<Creative Commons Zero> (CC0) license is an extremely liberal license,
+which confers rights similar to Public Domain to the extent permissible by
+law. However, Creative Commons does not recommend the application of their
+licenses to software, see:
 L<http://wiki.creativecommons.org/FAQ#Can_I_use_a_Creative_Commons_license_for_software.3F>
 
 =head1 NOTABLE PROJECTS
@@ -64,7 +66,7 @@ SQLite, L<http://sqlite.org>
 =item *
 
 L<Math::Random::ISAAC>, as well as the algorithm and accompanying reference
-implementation, L<http://burtleburtle.net/bob/rand/isaacafa.html>.
+implementation, L<http://burtleburtle.net/bob/rand/isaacafa.html>
 
 =back
 
