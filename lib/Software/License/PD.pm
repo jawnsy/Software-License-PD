@@ -144,16 +144,7 @@ out of or in connection with the software or the use or other dealings in
 the software.
 
 __LICENSE__
-Legally speaking, this package and its contents are:
-
-  Copyright (c) {{$self->year}} by {{$self->holder}}.
-
-But this is really just a legal technicality that allows the author to
-offer this package under the public domain and also a variety of licensing
-options. For all intents and purposes, this is public domain software,
-which means you can do whatever you want with it.
-
-SUMMARY
+                      PUBLIC DOMAIN PSEUDO-LICENSE
 
 I, the copyright holder of this package, hereby release the entire contents
 therein into the public domain. This applies worldwide, to the extent that
@@ -173,14 +164,14 @@ this software under the terms of your choice of the following licenses:
 For the sake of convenience, the full text of the latest versions of these
 licenses (as of writing) follows.
 
---- {{ $self->_mit->name }} ---
+--------- {{ $self->_mit->name }} ---------
 
 {{ $self->_mit->fulltext }}
 
---- {{ $self->_tal->name }} ---
+--------- {{ $self->_tal->name }} ---------
 
 {{ $self->_tal->fulltext }}
 
---- {{ $self->_gpl->name }} ---
+--------- {{ $self->_gpl->name }} ---------
 
 {{ $self->_gpl->fulltext }}

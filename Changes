@@ -1,5 +1,10 @@
 {{$NEXT}}
 
+          Tweak the license text to play well with Dist::Zilla
+
+          Drop a bunch of apparently-unnecessary dependencies. Now only
+          support Perl 5.8.0+
+
 1.001     2011-01-14 21:34:31 America/Toronto
 
           Add dependency on Software::License (thanks CPAN Testers!)
