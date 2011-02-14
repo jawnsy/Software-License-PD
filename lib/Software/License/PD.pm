@@ -128,7 +128,7 @@ __DATA__
 __NOTICE__
 Legally speaking, this package and its contents are:
 
-  Copyright (c) {{$self->year}} by {{$self->holder}}.
+Copyright (c) {{$self->year}} by {{$self->holder}}.
 
 But this is really just a legal technicality that allows the author to
 offer this package under the public domain and also a variety of licensing
