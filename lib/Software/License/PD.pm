@@ -63,12 +63,23 @@ Public Domain, including:
 
 =item *
 
-SQLite, L<http://sqlite.org>
+L<SQLite|http://sqlite.org>, a popular embedded database library included
+in many other projects, both open source and proprietary
 
 =item *
 
-L<Math::Random::ISAAC>, as well as the algorithm and accompanying reference
-implementation, L<http://burtleburtle.net/bob/rand/isaacafa.html>
+L<djbdns|http://cr.yp.to/djbdns.html>, a small DNS server used in many
+embedded devices, along with L<numerous other projects published by
+Daniel J. Bernstein|http://cr.yp.to/distributors.html>
+
+=item *
+
+L<Berkeley Yacc|http://invisible-island.net/byacc/byacc.html>
+
+=item *
+
+L<Math::Random::ISAAC>, as well as the L<algorithm and accompanying reference
+implementation|http://burtleburtle.net/bob/rand/isaacafa.html>
 
 =back
 
@@ -78,18 +89,33 @@ implementation, L<http://burtleburtle.net/bob/rand/isaacafa.html>
 
 =item *
 
-The Berne Convention for the Protection of Literary and Artistic Works,
-L<http://wipo.int/treaties/en/ip/berne/index.html>
+The L<Berne Convention for the Protection of Literary and Artistic
+Works|http://wipo.int/treaties/en/ip/berne/index.html>, which provides
+automatic internationalised copyright ownership for authors of artistic
+works.
 
 =item *
 
-The Public Domain in Copyright Law,
-L<http://edwardsamuels.com/copyright/beyond/articles/public.html>
+Edward Samuels' exploration of L<The Public Domain in Copyright
+Law|http://edwardsamuels.com/copyright/beyond/articles/public.html>,
+which describes the nature of copyright and the mechanisms under which
+works can enter the public domain (e.g. through expiration or forfeiture
+of copyright, or non-copyrightable works.)
 
 =item *
 
-Placing documents into the public domain,
-L<http://cr.yp.to/publicdomain.html>
+Daniel J. Bernstein's examination, L<Placing documents into the public
+domain|http://cr.yp.to/publicdomain.html>
+
+=item *
+
+L<The Unlicense|http://unlicense.org/>, a copyright waiver statement
+
+=item *
+
+L<Managing copyright information within a free software
+project|https://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html>,
+published by the Software Freedom Law Center
 
 =back
 
