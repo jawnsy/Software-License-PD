@@ -35,16 +35,27 @@ jurisdictions
 
 =back
 
-Some authors have chosen to disclaim all rights to their works and attempt
-to release them into the Public Domain. This is a particularly contentious
-issue because some jurisdictions do not recognize an author's prerogative to
-disclaim all rights to their own work. In European countries, authors can
+Some authors have chosen to disclaim all rights to their works and release it
+into the Public Domain, which is ideal when authors want to ensure that their
+work can be used without any restrictions whatsoever.  However, the notion of
+relinquishing work into the Public Domain can be contentious in some cases,
+since some jurisdictions may not recognize an author's prerogative to disclaim
+all rights to their own work.  In European countries, for example, authors can
 abandon their claim to copyright, but not reputation rights (which prevent
 people from removing your name from your work, among other things).
 
 While I have researched the issue to some extent, I am not a lawyer and am
-not qualified to provide legal advice. I have used this license for some of
+not qualified to provide legal advice.  I have used this license for some of
 my own packages, but am unsure whether it would stand up in a court of law.
+
+=head1 USAGE
+
+This module can be used with L<Dist::Zilla> simply by specifying:
+
+    ; authordep Software::License::PD
+    license = PD
+
+in your C<dist.ini> file.
 
 =head1 WHY NOT CREATIVE COMMONS ZERO?
 
