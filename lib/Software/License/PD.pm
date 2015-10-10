@@ -154,14 +154,15 @@ sub _tal {
 
 __DATA__
 __NOTICE__
-Legally speaking, this package and its contents are:
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute
+this software, either in source code form or as a compiled binary, for any
+purpose, commercial or non-commercial, and by any means.
 
-Copyright (c) {{$self->year}} by {{$self->holder}}.
-
-But this is really just a legal technicality that allows the author to
-offer this package under the public domain and also a variety of licensing
-options. For all intents and purposes, this is public domain software,
-which means you can do whatever you want with it.
+The author or authors of this software dedicate any and all copyright interest
+in the software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and successors. We
+intend this dedication to be an overt act of relinquishment in perpetuity of
+all present and future rights to this software under copyright law.
 
 The software is provided "AS IS", without warranty of any kind, express or
 implied, including but not limited to the warranties of merchantability,
@@ -174,11 +175,11 @@ the software.
 __LICENSE__
                       PUBLIC DOMAIN PSEUDO-LICENSE
 
-I, the copyright holder of this package, hereby release the entire contents
+The author or authors of this software package hereby release the contents
 therein into the public domain. This applies worldwide, to the extent that
 it is permissible by law.
 
-In case this is not legally possible, I grant any entity the right to use
+In case this is not legally possible, we grant any entity the right to use
 this work for any purpose, without any conditions, unless such conditions
 are required by law.
 
@@ -189,8 +190,8 @@ this software under the terms of your choice of the following licenses:
 2. The Perl Artistic License, version 1 or later; or,
 3. The GNU General Public License, version 1 or later
 
-For the sake of convenience, the full text of the latest versions of these
-licenses (as of writing) follows.
+For your convenience, the full text of the latest versions of these licenses
+(as of writing) follow.
 
 --------- {{ $self->_mit->name }} ---------
 

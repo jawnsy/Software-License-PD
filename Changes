@@ -1,6 +1,9 @@
 {{$NEXT}}
 
-          Tweak the license text to play well with Dist::Zilla
+          IMPORTANT: This version includes updated verbiage from the
+          Unlicense public domain waiver. While this maintains the spirit
+          of the original agreement, authors should carefully review the
+          changes.
 
           Drop a bunch of apparently-unnecessary dependencies. Now only
           support Perl 5.8.0+
