@@ -26,7 +26,7 @@ the Public Domain in two common situations:
 
 Where the work carries no license or copyright information, and precedes
 the ratification of the I<Berne Convention for the Protection of Literary
-and Artistic Works>
+and Artistic Works>; or
 
 =item 2
 
@@ -37,27 +37,27 @@ jurisdictions
 
 Some authors have chosen to disclaim all rights to their works and attempt
 to release them into the Public Domain. This is a particularly contentious
-issue because some jurisdictions do not recognize an author's perogative to
+issue because some jurisdictions do not recognize an author's prerogative to
 disclaim all rights to their own work. In European countries, authors can
-abandon their claim to copyright, but not Reputation Rights (which prevent
+abandon their claim to copyright, but not reputation rights (which prevent
 people from removing your name from your work, among other things).
 
 While I have researched the issue to some extent, I am not a lawyer and am
 not qualified to provide legal advice. I have used this license for some of
 my own packages, but am unsure whether it would stand up in a court of law.
 
-=head2 CREATIVE COMMONS ZERO
+=head1 WHY NOT CREATIVE COMMONS ZERO?
 
 The B<Creative Commons Zero> (CC0) license is an extremely liberal license,
 which confers rights similar to Public Domain to the extent permissible by
 law. However, Creative Commons does not recommend the application of their
-licenses to software, see:
-L<http://wiki.creativecommons.org/FAQ#Can_I_use_a_Creative_Commons_license_for_software.3F>
+licenses to software, see: L<Can I apply a Creative Commons license to
+software?|https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#Can_I_apply_a_Creative_Commons_license_to_software.3F>
 
 =head1 NOTABLE PROJECTS
 
 Several notable Open Source software projects have been released into the
-Public Domain:
+Public Domain, including:
 
 =over
 
