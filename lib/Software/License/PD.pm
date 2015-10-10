@@ -12,6 +12,8 @@ require Software::License::Artistic_2_0;
 
 =pod
 
+=encoding utf8
+
 =head1 DESCRIPTION
 
 In legal circles, B<Public Domain> is defined as the absence of B<copyright>
