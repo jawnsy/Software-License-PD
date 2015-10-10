@@ -1,0 +1,8 @@
+/* TEAM */
+
+Developer: Jonathan Yu
+CPAN: JAWNSY
+Site: https://jon.imaginary.ca
+Twitter: @jawnsy
+LinkedIn: https://linkedin.com/in/jawnsy
+Location: Toronto, Canada
