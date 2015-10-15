@@ -1,7 +1,9 @@
 Software::License::PD
 =====================
 
-[![Build Status](https://travis-ci.org/jawnsy/Software-License-PD.svg?branch=master)](https://travis-ci.org/jawnsy/Software-License-PD)
+[![Travis CI Build Status](https://travis-ci.org/jawnsy/Software-License-PD.svg?branch=master)](https://travis-ci.org/jawnsy/Software-License-PD)
+[![AppVeyor CI Build Status](https://ci.appveyor.com/api/projects/status/github/jawnsy/Software-License-PD?branch=master&svg=true)](https://ci.appveyor.com/project/jawnsy/Software-License-PD)
+[![Code Coverage](https://codecov.io/github/jawnsy/Software-License-PD/coverage.svg?branch=master)](https://codecov.io/github/jawnsy/Software-License-PD?branch=master)
 
 Introduction
 ------------
